@@ -1276,4 +1276,15 @@ a:focus {
 -webkit-box-shadow: -2px 6px 5px 5px rgba(0,0,0,0.17);
 -moz-box-shadow: -2px 6px 5px 5px rgba(0,0,0,0.17);
 }
+
+.menu {
+  position: fixed;
+  background: white;
+  box-shadow: -2px 6px 5px 5px rgb(0 0 0 / 17%);
+  -webkit-box-shadow: -2px 6px 5px 5px rgb(0 0 0 / 17%);
+  -moz-box-shadow: -2px 6px 5px 5px rgba(0,0,0,0.17);
+  width: 100%;
+  z-index: 10;
+  margin-top: 0px;
+}
 /*# sourceMappingURL=style.css.map */
